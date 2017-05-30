@@ -14,3 +14,6 @@ https://stackoverflow.com/questions/1118183/how-to-debug-in-django-the-good-way
 https://docs.python.org/2/library/pdb.html
 https://pypi.python.org/pypi/django-pdb
 https://www.safaribooksonline.com/blog/2014/11/18/intro-python-debugger/
+
+
+https://github.com/django-extensions/django-extensions
