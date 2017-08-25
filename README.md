@@ -1,6 +1,9 @@
 # django-literature
 Bits and pieces of basic to expert level Django knowledge.
 
+## testing
+https://hernantz.github.io/mock-yourself-not-your-tests.html
+
 ## layout & important inner stuff (signals):
 http://www.b-list.org/weblog/2006/sep/10/django-tips-laying-out-application/
 
