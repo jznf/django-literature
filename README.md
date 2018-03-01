@@ -7,6 +7,8 @@ https://hernantz.github.io/mock-yourself-not-your-tests.html
 ## DB
 http://linuxinsight.com/optimize_postgresql_database_size.html
 
+http://jgardiner.co.uk/blog/read_sql_pandas
+
 ## docs
 https://thomas-cokelaer.info/tutorials/sphinx/docstring_python.html
 
